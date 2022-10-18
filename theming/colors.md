@@ -4,6 +4,10 @@ The Threshold brand colors make it memorable and distinctive. The core brand col
 
 The brand color schemes below make something look like the Threshold brand; they don’t always carry a further meaning about a system interaction. Further in this document you will see System Colors. These colors are used in the product to indicate something to the user. For example, green indicates an action was completed successfully.
 
+* [Rules of Thumb](https://github.com/threshold-network/design-system-docs/blob/main/theming/colors.md#rules-of-thumb)
+* [Brand Colors](https://github.com/threshold-network/design-system-docs/blob/main/theming/colors.md#brand-colors)
+* [System Colors](https://github.com/threshold-network/design-system-docs/blob/main/theming/colors.md#system-colors)
+
 ## Rules of Thumb
 
 ### Naming Conventions
