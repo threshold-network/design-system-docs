@@ -27,7 +27,7 @@ The T token symbol is used to represent the Threshold token on our product and o
 ## Rules of Thumb
 
 ### Do use the right logo on the right background.
-Use the following version of the logo for light backgrounds. Use a dropped out version of the token symbol on dark backgrounds.
+Use the following version of the logo for light backgrounds. Use a dropped out version on dark backgrounds.
 
 ![Dark mode symbol](https://user-images.githubusercontent.com/57226633/196483199-02ad280d-f720-4d4f-9330-0f35548fead3.png)
 *Light mode and dark mode.*
