@@ -2,6 +2,13 @@
 
 The typography system is a foundation for readable and visually consistent communication. Use the following document as a guideline for laying out paragraphs and text in Threshold styles.
 
+* [Typeface](https://github.com/threshold-network/design-system-docs/blob/main/theming/typography.md#typeface)
+* [Guidelines](https://github.com/threshold-network/design-system-docs/blob/main/theming/typography.md#guidelines)
+* [Typography Styles](https://github.com/threshold-network/design-system-docs/blob/main/theming/typography.md#typography-styles)
+* [Marketing Alternates](https://github.com/threshold-network/design-system-docs/blob/main/theming/typography.md#marketing-alternates)
+
+## Typeface
+
 The typeface used for the Threshold logotype is Plaak Ney Heavy. The secondary typeface in branding and marketing is Inter.
 
 The core brand font for Threshold products is **Inter**. 
