@@ -7,7 +7,7 @@ A **molecule** in a design system are two or more atoms combined to create a mor
 To learn more about using atomic design systems, refer to this section of Brad Frost's book Atomic Design: https://atomicdesign.bradfrost.com/chapter-2/
 
 ## Table of Contents
-  * Alert
+  * [Alert](https://github.com/threshold-network/design-system-docs/blob/main/molecules/alerts.md)
   * Feature Banner
   * Filter Tab
   * Form
