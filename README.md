@@ -10,19 +10,22 @@ If you use this in your product, we ask that you link back to this repo.
 
 For the Figma library, you can duplicate the Figma file [here](https://www.figma.com/file/zZi2fYDUjWEMPQJWAt8VWv/Threshold-DS?node-id=3436%3A24296).
 
+## Type of Design System
+Threshold's design system is an atomic design system. An **atomic design system** structures the design system using terminology from Brad Frost’s theory of atomic design. Atomic design divides a user interface into several parts: atoms, molecules, and organisms. This type of design system includes a theming section for visual attributes (colors, typography, branding, etc). 
+
 ## 🎯 Goals
 * Compile important web3 components.
 * Make a resource that was open source for the community.
 * Document our research and thinking for these components.
-* Create designs adn make changes across many files for any Threshold project faster.
+* Create designs and make changes across many files for any Threshold project faster.
 * Ensure that designs are consistent across many designers and engineers.
 
 ## 📓 Foundational Principles
 To be the most effective, a design system should adhere to the following:
-* Consistent. The way components are built and managed follows a predictable pattern.
-* Independent. The design system is built as a standalone and a single source of truth.
-* Reusable. The components are built so they can be reused in many contexts. While it seems like a simple concept, deciding the level of specificity is one of the trickiest things about modular design. The more specific something is, the less reusable it is.
-* Accessible. It’s usable by as many people as possible, no matter how they access the web.
+* **Consistent**. The way components are built and managed follows a predictable pattern.
+* **Independent**. The design system is built as a standalone and a single source of truth.
+* **Reusable**. The components are built so they can be reused in many contexts. While it seems like a simple concept, deciding the level of specificity is one of the trickiest things about modular design. The more specific something is, the less reusable it is.
+* **Accessible**. It’s usable by as many people as possible, no matter how they access the web.
 
 ## Table of Contents
 
