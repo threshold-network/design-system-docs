@@ -2,7 +2,7 @@
 
 # 🎨 Theming
 
-The Threshold theming docs provide info about Threshold styles - typographhy, brand colors, and logos.
+The Threshold theming docs provide info about Threshold styles - typography, brand colors, and logos.
 
 ## Table of Contents
 * [Typography](https://github.com/threshold-network/design-system-docs/blob/main/theming/typography.md)
