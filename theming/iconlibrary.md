@@ -13,7 +13,7 @@ You can find this library here: https://ionic.io/ionicons
 
 ## Custom Icons
 
-Sometimes a custom icons is needed that is not found in the Ionicons library. Model these additional icons after the existing icons so they look consistent with the existing icon set in use.
+Sometimes a custom icon is needed that is not found in the Ionicons library. When creating a custom icon, model it after the existing Ionicons icons so they look consistent.
 
 You can ensure consistent icons by:
 * Checking thickness of line stroke
