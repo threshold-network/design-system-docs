@@ -26,7 +26,7 @@ For the Figma library, you can duplicate the Figma file [here](https://www.figma
   * [Colors](https://github.com/threshold-network/design-system-docs/blob/main/theming/colors.md)
   * [Icon Library](https://github.com/threshold-network/design-system-docs/blob/main/theming/iconlibrary.md)
 
-### 🔹 Atoms
+### 🧱 Atoms
   * Avatar
   * Badge
   * Banner
@@ -46,7 +46,7 @@ For the Figma library, you can duplicate the Figma file [here](https://www.figma
   * Timer
   * Tooltip
 
-### 🔷 Molecules
+### 🏡 Molecules
   * Alert
   * Feature Banner
   * Filter Tab
@@ -58,7 +58,7 @@ For the Figma library, you can duplicate the Figma file [here](https://www.figma
   * Statistics
   * Voting
   
-### 💠 Organisms
+### 🏢 Organisms
   * Applications
   * Coverage Pool
   * Modals
@@ -70,5 +70,5 @@ For the Figma library, you can duplicate the Figma file [here](https://www.figma
   * Upgrade
   * Wallet
   
-### 💻 Layouts
+### 🏗 Layouts
   * Page
