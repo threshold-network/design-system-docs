@@ -2,11 +2,14 @@
 
 Refer to the following guide for Threshold icons. 
 
-The primary method for generating icons is from the MIT licensed and open source library **Ionicons**.
+* [Ionicons](https://github.com/threshold-network/design-system-docs/edit/main/theming/iconlibrary.md#ionicons)
+* [Custom Icons](https://github.com/threshold-network/design-system-docs/edit/main/theming/iconlibrary.md#custom-icons)
+* [Identicons](https://github.com/threshold-network/design-system-docs/edit/main/theming/iconlibrary.md#identicons)
+* [Icon Illustration](https://github.com/threshold-network/design-system-docs/edit/main/theming/iconlibrary.md#icon-illustration)
 
 ## Ionicons
 
-You can find this library here: https://ionic.io/ionicons
+The primary method for generating icons is from the MIT licensed and open source library **Ionicons**. You can find this library here: https://ionic.io/ionicons
 
 ![ionicons](https://user-images.githubusercontent.com/57226633/196533416-658f5e73-4a0c-4b2e-857b-6520fe845048.png)
 *Currently used Ionicons icons.*
