@@ -21,11 +21,10 @@ For the Figma library, you can duplicate the Figma file [here](https://www.figma
 
 ### 🎨 Theming
   * [Typography](https://github.com/threshold-network/design-system-docs/blob/main/theming/typography.md)
-  * Grids
-  * Logo
-  * Color
-  * Icon Library
-  * Illustrations
+  * [Grids & Breakpoints](https://github.com/threshold-network/design-system-docs/blob/main/theming/gridsbreakpoints.md)
+  * [Logos](https://github.com/threshold-network/design-system-docs/blob/main/theming/logos.md)
+  * [Colors](https://github.com/threshold-network/design-system-docs/blob/main/theming/colors.md)
+  * [Icon Library](https://github.com/threshold-network/design-system-docs/blob/main/theming/iconlibrary.md)
 
 ### 🔹 Atoms
   * Avatar
