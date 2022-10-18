@@ -15,7 +15,13 @@ This font is open source and freely available from Google Fonts here: https://fo
 
 ### Base Font
 
-The Threshold type system is built on 8pt scale, and the base font is 14pt (one exception is the 12pt size for XS small buttons; use this rarely).
+The Threshold type system is built on 8px scale, and the base font is 16px, or 1 em.
+
+You will see that we show Threshold type in both em units and pixels.
+
+An **Em** refers to the base text size. The value of 1 em means the same thing as a value of 100 percent of the base text size. The size of an Em or percent depends on its parent. If the base text size of body is 16 pixels, then 150% or 1.5 Em will be 24 pixels (1.5 * 16).
+
+A **Pixel** (px) is browser dependent. It is the absolute size that you would see on your screen and is a static measurement.
 
 ### Font Color
 
@@ -31,12 +37,12 @@ The following type styles are used in the Threshold system. Use heading styles f
 
 ### Desktop and Tablet
 
-![TypeStyles](https://user-images.githubusercontent.com/57226633/196466306-44cfc154-507a-4f2b-8dc8-014d468d0306.png)
+![type-styles](https://user-images.githubusercontent.com/57226633/196544684-227fcf6f-e5b7-40a4-836b-4a6fc33b663d.png)
 *Typography styles for desktop and tablet.*
 
 ### Mobile
 
-![MobileTypeStyles](https://user-images.githubusercontent.com/57226633/196466435-172eb959-15bd-43e7-94f4-ab1d97dab72e.png)
+![mobile-styles](https://user-images.githubusercontent.com/57226633/196544690-95e46917-388a-42aa-834c-7efe4338193b.png)
 *Use these header styles on mobile.*
 
 ## Marketing Alternates
