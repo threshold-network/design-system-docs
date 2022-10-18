@@ -2,6 +2,9 @@
 
 For laying out Threshold interfaces to achieve easy responsiveness and scaling, we use a 12 column grid for tablet and desktop screens. For mobile, we use a 4 column grid.
 
+* [Grids](https://github.com/threshold-network/design-system-docs/blob/main/theming/typography.md#threshold-grids)
+* [Breakpoints](https://github.com/threshold-network/design-system-docs/blob/main/theming/typography.md#threshold-breakpoints)
+
 ## Threshold Grids
 
 In the Threshold product, there's an expandable and collapsible sidebar. When there’s a side menu or sidebar, offset the grid so as not to not include the space occupied by the menu to ensure the interface area is centered in the rest of the screen.
