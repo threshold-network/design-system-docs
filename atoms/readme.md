@@ -8,7 +8,7 @@ To learn more about using atomic design systems, refer to this section of Brad F
 
 ## Table of Contents
 
-  * Avatar
+  * [Avatar](https://github.com/threshold-network/design-system-docs/blob/main/atoms/avatar.md)
   * Badge
   * Banner
   * Box Badge
