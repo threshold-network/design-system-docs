@@ -70,5 +70,5 @@ For the Figma library, you can duplicate the Figma file [here](https://www.figma
   * Upgrade
   * Wallet
   
-### 🏗 Layouts
+### 🏙️ Layouts
   * Page
