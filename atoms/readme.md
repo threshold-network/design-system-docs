@@ -2,7 +2,7 @@
 
 # Atoms
 
-"Atoms" in the design system are the building block of the design system. They are the smallest unit of a component. For example - buttons, dividers, and badges. 
+"Atoms" in the design system are the basic building blocks of the UI and the most simple form. They can’t be broken down any further without ceasing to be functional. For example - buttons, dividers, and badges. 
 
 To learn more about using atomic design systems, refer to this section of Brad Frost's book _Atomic Design_: https://atomicdesign.bradfrost.com/chapter-2/
 
