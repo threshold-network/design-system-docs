@@ -2,8 +2,8 @@
 
 For laying out Threshold interfaces to achieve easy responsiveness and scaling, we use a 12 column grid for tablet and desktop screens. For mobile, we use a 4 column grid.
 
-* [Grids](https://github.com/threshold-network/design-system-docs/blob/main/theming/typography.md#threshold-grids)
-* [Breakpoints](https://github.com/threshold-network/design-system-docs/blob/main/theming/typography.md#threshold-breakpoints)
+* [Grids](https://github.com/threshold-network/design-system-docs/blob/main/theming/gridsbreakpoints.md#threshold-grids)
+* [Breakpoints](https://github.com/threshold-network/design-system-docs/blob/main/theming/gridsbreakpoints.md#threshold-breakpoints)
 
 ## Threshold Grids
 
