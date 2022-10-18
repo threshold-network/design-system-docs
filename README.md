@@ -2,9 +2,9 @@
 
 # Threshold Network Web3 Design System
 
-This library is used by our team to build products with a consistent user experience.
+This library is used by our team to build products with a consistent user experience. A design system is a complete set of standards intended to manage design at scale using reusable components and patterns.
 
-When we first were deciding how we wanted to structure a design system, we evaluated several options to see what could be used for a web3 product. The web3 space has several components that are unique and important to the UX of the application, e.g. transaction modals and wallet interactions. No design system fully covered these use cases, so we decided to customize our own on top of an open source Chakra library.
+When we first were deciding how we wanted to structure a design system, we evaluated several existing options to see what could be used for a web3 product. The web3 space has several components that are unique and important to the UX of the application, e.g. transaction modals and wallet interactions. No design system fully covered these use cases, so we decided to customize our own on top of an open source Chakra library.
 
 If you use this in your product, we ask that you link back to this repo.
 
@@ -17,7 +17,14 @@ For the Figma library, you can duplicate the Figma file [here](https://www.figma
 * Create designs adn make changes across many files for any Threshold project faster.
 * Ensure that designs are consistent across many designers and engineers.
 
-## 📓 Table of Contents
+## 📓 Foundational Principles
+To be the most effective, a design system should adhere to the following:
+* Consistent. The way components are built and managed follows a predictable pattern.
+* Independent. The design system is built as a standalone and a single source of truth.
+* Reusable. The components are built so they can be reused in many contexts. While it seems like a simple concept, deciding the level of specificity is one of the trickiest things about modular design. The more specific something is, the less reusable it is.
+* Accessible. It’s usable by as many people as possible, no matter how they access the web.
+
+## Table of Contents
 
 ### 🎨 Theming
   * [Typography](https://github.com/threshold-network/design-system-docs/blob/main/theming/typography.md)
