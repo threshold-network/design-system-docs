@@ -8,7 +8,7 @@ Alerts are used inline to communicate a state that affects a system, feature or 
 
 ### Status
 
-![variations](https://user-images.githubusercontent.com/57226633/196540909-42050300-34f1-4058-a4c1-caa03c212a89.png)
+![status](https://user-images.githubusercontent.com/57226633/196541056-88db6d46-3247-411c-83a7-c61ee54219df.png)
 
 ### Variations
 
