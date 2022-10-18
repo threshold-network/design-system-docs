@@ -37,7 +37,7 @@ To be the most effective, a design system should adhere to the following:
   * [Icon Library](https://github.com/threshold-network/design-system-docs/blob/main/theming/iconlibrary.md)
 
 ### 🧱 [Atoms](https://github.com/threshold-network/design-system-docs/tree/main/atoms)
-  * Avatar
+  * [Avatar](https://github.com/threshold-network/design-system-docs/blob/main/atoms/avatar.md)
   * Badge
   * Banner
   * Box Badge
