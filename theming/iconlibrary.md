@@ -2,10 +2,10 @@
 
 Refer to the following guide for Threshold icons. 
 
-* [Ionicons](https://github.com/threshold-network/design-system-docs/main/theming/iconlibrary.md#ionicons)
-* [Custom Icons](https://github.com/threshold-network/design-system-docs/main/theming/iconlibrary.md#custom-icons)
-* [Identicons](https://github.com/threshold-network/design-system-docs/main/theming/iconlibrary.md#identicons)
-* [Icon Illustration](https://github.com/threshold-network/design-system-docs/main/theming/iconlibrary.md#icon-illustration)
+* [Ionicons](https://github.com/threshold-network/design-system-docs/blob/main/theming/iconlibrary.md#ionicons)
+* [Custom Icons](https://github.com/threshold-network/design-system-docs/blob/main/theming/iconlibrary.md#custom-icons)
+* [Identicons](https://github.com/threshold-network/design-system-docs/blob/main/theming/iconlibrary.md#identicons)
+* [Icon Illustration](https://github.com/threshold-network/design-system-docs/blob/main/theming/iconlibrary.md#icon-illustration)
 
 ## Ionicons
 
