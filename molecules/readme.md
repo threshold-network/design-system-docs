@@ -1,6 +1,6 @@
 ![molecules](https://user-images.githubusercontent.com/57226633/196543784-ffa4e996-984c-4b64-9c38-95c652a6f2be.png)
 
-# 🏠 Molecules
+# 🏡 Molecules
 
 A **molecule** in a design system are two or more atoms combined to create a more complex UI element.
 
