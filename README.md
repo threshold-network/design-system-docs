@@ -20,7 +20,7 @@ For the Figma library, you can duplicate the Figma file [here](https://www.figma
 ## 📓 Table of Contents
 
 ### 🎨 Theming
-  * Typography
+  * [Typography](https://github.com/threshold-network/design-system-docs/blob/main/theming/typography.md)
   * Grids
   * Logo
   * Color
