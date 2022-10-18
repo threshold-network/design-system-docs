@@ -29,14 +29,14 @@ To be the most effective, a design system should adhere to the following:
 
 ## Table of Contents
 
-### 🎨 Theming
+### 🎨 [Theming](https://github.com/threshold-network/design-system-docs/tree/main/theming)
   * [Typography](https://github.com/threshold-network/design-system-docs/blob/main/theming/typography.md)
   * [Grids & Breakpoints](https://github.com/threshold-network/design-system-docs/blob/main/theming/gridsbreakpoints.md)
   * [Logos](https://github.com/threshold-network/design-system-docs/blob/main/theming/logos.md)
   * [Colors](https://github.com/threshold-network/design-system-docs/blob/main/theming/colors.md)
   * [Icon Library](https://github.com/threshold-network/design-system-docs/blob/main/theming/iconlibrary.md)
 
-### 🧱 Atoms
+### 🧱 [Atoms](https://github.com/threshold-network/design-system-docs/tree/main/atoms)
   * Avatar
   * Badge
   * Banner
@@ -56,8 +56,8 @@ To be the most effective, a design system should adhere to the following:
   * Timer
   * Tooltip
 
-### 🏡 Molecules
-  * Alert
+### 🏡 [Molecules](https://github.com/threshold-network/design-system-docs/tree/main/molecules)
+  * [Alert](https://github.com/threshold-network/design-system-docs/blob/main/molecules/alerts.md)
   * Feature Banner
   * Filter Tab
   * Form
