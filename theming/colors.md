@@ -2,7 +2,7 @@
 
 The Threshold brand colors make it memorable and distinctive. The core brand color of Threshold is a saturated purple. This purple is also incorporated into a gradient for various uses.
 
-The brand color schemes below make something look like the Threshold brand; they don’t always carry a further meaning about a system interaction. On the other page you will see System Colors. These colors are used in the product to indicate something to the user. For example, green indicates an action was completed successfully.
+The brand color schemes below make something look like the Threshold brand; they don’t always carry a further meaning about a system interaction. Further in this document you will see System Colors. These colors are used in the product to indicate something to the user. For example, green indicates an action was completed successfully.
 
 ## Rules of Thumb
 
