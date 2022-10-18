@@ -1,5 +1,14 @@
 # Logos
 
+Refer to the following for guidelines on Threshold brands. 
+
+* [Threshold Brand](https://github.com/threshold-network/design-system-docs/blob/main/theming/logos.md#threshold-brand)
+* [tBTC Brand](https://github.com/threshold-network/design-system-docs/blob/main/theming/logos.md#tBTC)
+* [THUSD Brand](https://github.com/threshold-network/design-system-docs/blob/main/theming/logos.md#THUSD)
+* [Social Media Assets](https://github.com/threshold-network/design-system-docs/blob/main/theming/logos.md#social-media)
+
+## Threshold Brand
+
 The Threshold logo visually represents Threshold’s core principles: an emphasis on trustlessness, building in the open, decentralization, and bringing privacy to the public blockchain. 
 
 In the mark, there is clear hints of a letter T shape, but the logo plays with the proportionality of the letter to shorten the leg of the T and elongate the arms. The result is a mark that is balanced on all sides and unique and ownable.
@@ -17,12 +26,10 @@ The Threshold logo was designed by Moniker: https://monikersf.com/
 
 ![Symbol](https://user-images.githubusercontent.com/57226633/196482534-fd7961cd-0737-4ded-bfc3-65c1197fb2ca.png)
 
-# Token Symbol
-The T token symbol is used to represent the Threshold token on our product and on external platforms such as exchanges.
+### T Token Symbol
 
-### T Token
 ![threshold-token-symbol](https://user-images.githubusercontent.com/57226633/196483657-97df9e4c-edde-4c64-a32f-738b004c3c49.png)
-*Light mode and dark mode.*
+*The T token symbol is used to represent the Threshold token on our product and on external platforms such as exchanges.*
 
 ## Rules of Thumb
 
