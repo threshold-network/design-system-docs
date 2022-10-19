@@ -38,10 +38,10 @@ To be the most effective, a design system should adhere to the following:
 
 ### 🧱 [Atoms](https://github.com/threshold-network/design-system-docs/tree/main/atoms)
   * [Avatar](https://github.com/threshold-network/design-system-docs/blob/main/atoms/avatar.md)
-  * Badge
-  * Banner
-  * Box Badge
-  * Buttons
+  * [Badge](https://github.com/threshold-network/design-system-docs/blob/main/atoms/badge.md)
+  * [Banner](https://github.com/threshold-network/design-system-docs/blob/main/atoms/banner.md)
+  * [Box Badge](https://github.com/threshold-network/design-system-docs/blob/main/atoms/boxbadge.md)
+  * [Buttons](https://github.com/threshold-network/design-system-docs/blob/main/atoms/buttons.md)
   * Card
   * Divider
   * Inputs
