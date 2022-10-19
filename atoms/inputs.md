@@ -34,6 +34,10 @@ A textarea input allows users to add multi-line text.
 
 Used to get user input in a field.
 
+In the section on variations of input, you can use the label variation when you want to assign a text function to a particular input that can’t be communicated using just an icon. 
+
+Suggested use of the icon label is for wallet address.
+
 ### Size & State
 
 ![textfield](https://user-images.githubusercontent.com/57226633/196756471-dad83612-52be-4a42-a800-d02bad92fa25.png)
