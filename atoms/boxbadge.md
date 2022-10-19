@@ -2,7 +2,7 @@
 
 Use a box badge for labeling content, typically as a label in a list of several items.
 
-*You can duplicate the Figma file [here](https://www.figma.com/file/zZi2fYDUjWEMPQJWAt8VWv/Threshold-DS?node-id=3599%3A25112)*
+*You can duplicate the Figma file [here.](https://www.figma.com/file/zZi2fYDUjWEMPQJWAt8VWv/Threshold-DS?node-id=3599%3A25112)*
 
 ## Guidelines
 
