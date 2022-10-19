@@ -2,6 +2,10 @@
 
 Alerts are used inline to communicate a state that affects a system, feature or page.
 
+*To duplicate the Figma file, go [here.](https://www.figma.com/file/zZi2fYDUjWEMPQJWAt8VWv/Threshold-DS?node-id=834%3A18160)*
+
+## Guidelines
+
 ### Size
 
 ![size](https://user-images.githubusercontent.com/57226633/196540853-068f7e4e-7d33-4ded-94f5-c03fabb8750d.png)
