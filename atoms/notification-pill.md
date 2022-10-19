@@ -1,4 +1,4 @@
-# Notification
+# Notification Pill
 
 Notification pill icon indicates a change in state.
 
