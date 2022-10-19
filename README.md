@@ -42,19 +42,19 @@ To be the most effective, a design system should adhere to the following:
   * [Banner](https://github.com/threshold-network/design-system-docs/blob/main/atoms/banner.md)
   * [Box Badge](https://github.com/threshold-network/design-system-docs/blob/main/atoms/box-badge.md)
   * [Buttons](https://github.com/threshold-network/design-system-docs/blob/main/atoms/buttons.md)
-  * Card
-  * Divider
-  * Inputs
-  * Notification
-  * Progress Bar
-  * Pending
-  * Selection
-  * Shadows
-  * Skeleton
-  * Slider
-  * Steps
-  * Timer
-  * Tooltip
+  * [Card](https://github.com/threshold-network/design-system-docs/blob/main/atoms/card.md)
+  * [Divider](https://github.com/threshold-network/design-system-docs/blob/main/atoms/divider.md)
+  * [Inputs](https://github.com/threshold-network/design-system-docs/blob/main/atoms/inputs.md)
+  * [Notification Pill](https://github.com/threshold-network/design-system-docs/blob/main/atoms/notification-pill.md)
+  * [Pending](https://github.com/threshold-network/design-system-docs/blob/main/atoms/pending.md)
+  * [Progress Bar](https://github.com/threshold-network/design-system-docs/blob/main/atoms/progress-bar.md)
+  * [Selection](https://github.com/threshold-network/design-system-docs/blob/main/atoms/selection.md)
+  * [Shadows](https://github.com/threshold-network/design-system-docs/blob/main/atoms/shadow.md)
+  * [Skeleton](https://github.com/threshold-network/design-system-docs/blob/main/atoms/skeletons.md)
+  * [Slider](https://github.com/threshold-network/design-system-docs/blob/main/atoms/slider.md)
+  * [Steps](https://github.com/threshold-network/design-system-docs/blob/main/atoms/steps.md)
+  * [Timer](https://github.com/threshold-network/design-system-docs/blob/main/atoms/timer.md)
+  * [Tooltip](https://github.com/threshold-network/design-system-docs/blob/main/atoms/tooltip.md)
 
 ### 🏡 [Molecules](https://github.com/threshold-network/design-system-docs/tree/main/molecules)
   * [Alert](https://github.com/threshold-network/design-system-docs/blob/main/molecules/alerts.md)
