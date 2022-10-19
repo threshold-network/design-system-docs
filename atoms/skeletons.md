@@ -8,7 +8,7 @@ The skeleton is used to show full page loading elements.
 
 ### Indicate a loading item within a card.
 
-Use these to indicate an item is loadign within a card. This also gives the user a sense that content will be loaded into this section.
+Use these to indicate an item is loading within a card. This also gives the user a sense that content will be loaded into this section.
 
 ![tip](https://user-images.githubusercontent.com/57226633/196772542-8cf7edd9-0a4b-4d5d-8f75-43ecf9c3c441.png)
 
