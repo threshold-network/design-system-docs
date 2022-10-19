@@ -11,12 +11,12 @@ To learn more about using atomic design systems, refer to this section of Brad F
   * [Avatar](https://github.com/threshold-network/design-system-docs/blob/main/atoms/avatar.md)
   * [Badge](https://github.com/threshold-network/design-system-docs/blob/main/atoms/badge.md)
   * [Banner](https://github.com/threshold-network/design-system-docs/blob/main/atoms/banner.md)
-  * [Box Badge](https://github.com/threshold-network/design-system-docs/blob/main/atoms/boxbadge.md)
+  * [Box Badge](https://github.com/threshold-network/design-system-docs/blob/main/atoms/box-badge.md)
   * [Buttons](https://github.com/threshold-network/design-system-docs/blob/main/atoms/buttons.md)
-  * Card
-  * Divider
-  * Inputs
-  * Notification
+  * [Card](https://github.com/threshold-network/design-system-docs/blob/main/atoms/card.md)
+  * [Divider](https://github.com/threshold-network/design-system-docs/blob/main/atoms/divider.md)
+  * [Inputs](https://github.com/threshold-network/design-system-docs/blob/main/atoms/inputs.md)
+  * [Notification Pill](https://github.com/threshold-network/design-system-docs/blob/main/atoms/notification-pill.md)
   * Progress Bar
   * Pending
   * Selection
