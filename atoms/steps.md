@@ -6,7 +6,9 @@ Steps are used to show a process that requires a series of user actions.
 
 ## Guidelines
 
-### Size
+### Size & Orientation
+
+Steps can be stacked horizontally or vertically positioned.
 
 ![Steps_Size_Orientation](https://user-images.githubusercontent.com/57226633/196773283-5108596d-c218-4fa3-8cb1-0bbf3a060723.png)
 
