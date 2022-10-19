@@ -17,12 +17,12 @@ To learn more about using atomic design systems, refer to this section of Brad F
   * [Divider](https://github.com/threshold-network/design-system-docs/blob/main/atoms/divider.md)
   * [Inputs](https://github.com/threshold-network/design-system-docs/blob/main/atoms/inputs.md)
   * [Notification Pill](https://github.com/threshold-network/design-system-docs/blob/main/atoms/notification-pill.md)
-  * Progress Bar
-  * Pending
-  * Selection
-  * Shadows
-  * Skeleton
-  * Slider
-  * Steps
-  * Timer
-  * Tooltip
+  * [Pending](https://github.com/threshold-network/design-system-docs/blob/main/atoms/pending.md)
+  * [Progress Bar](https://github.com/threshold-network/design-system-docs/blob/main/atoms/progress-bar.md)
+  * [Selection](https://github.com/threshold-network/design-system-docs/blob/main/atoms/selection.md)
+  * [Shadows](https://github.com/threshold-network/design-system-docs/blob/main/atoms/shadow.md)
+  * [Skeleton](https://github.com/threshold-network/design-system-docs/blob/main/atoms/skeletons.md)
+  * [Slider](https://github.com/threshold-network/design-system-docs/blob/main/atoms/slider.md)
+  * [Steps](https://github.com/threshold-network/design-system-docs/blob/main/atoms/steps.md)
+  * [Timer](https://github.com/threshold-network/design-system-docs/blob/main/atoms/timer.md)
+  * [Tooltip](https://github.com/threshold-network/design-system-docs/blob/main/atoms/tooltip.md)
