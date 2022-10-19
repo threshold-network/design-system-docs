@@ -2,6 +2,8 @@
 
 This component is used to visually divide two sections of content.
 
+*To duplicate the Figma file, go [here.](https://www.figma.com/file/zZi2fYDUjWEMPQJWAt8VWv/Threshold-DS?node-id=834%3A181
+
 ## Guidelines
 
 ### Orientation
