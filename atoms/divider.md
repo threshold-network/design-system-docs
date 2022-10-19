@@ -8,6 +8,7 @@ This component is used to visually divide two sections of content.
 
 ### Orientation
 This component comes in a few varieties. There is an icon and a text option if additional context is needed to clarify to the user why the sections of content are being divided.
+
 ![orientation](https://user-images.githubusercontent.com/57226633/196754451-7c6b6ab2-ab18-402f-869f-b18c555e6692.png)
 
 ### Dark Mode
