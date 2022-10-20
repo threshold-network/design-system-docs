@@ -10,7 +10,7 @@ Use a feature banner to announce a new feature at the top of the page.
 
 A feature banner can be used to announce a new thing to a user. It is best to place these in context with the feature and to include a clear action for the user to take.
 
-![tip](https://user-images.githubusercontent.com/57226633/196990095-0ee40242-78aa-4364-803d-6bcd7f7d0874.png)
+![tips](https://user-images.githubusercontent.com/57226633/196990384-25f53d54-8fc8-490f-9081-786f78fa297e.png)
 
 ## Guidelines
 
