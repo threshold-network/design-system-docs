@@ -68,17 +68,18 @@ To be the most effective, a design system should adhere to the following:
   * [Toast](https://github.com/threshold-network/design-system-docs/blob/main/molecules/toast.md)
   * [Voting](https://github.com/threshold-network/design-system-docs/blob/main/molecules/voting.md)
   
-### 🏢 Organisms
-  * Applications
-  * Coverage Pool
-  * Modals
-  * Navigation
-  * Rewards
-  * Staking
-  * Table
-  * TVL
-  * Upgrade
-  * Wallet
+### 🏢 [Organisms](https://github.com/threshold-network/design-system-docs/tree/main/organisms)
+  * [Applications](https://github.com/threshold-network/design-system-docs/blob/main/organisms/application.md)
+  * [Coverage Pool](https://github.com/threshold-network/design-system-docs/blob/main/organisms/coverage-pool.md)
+  * [Modals](https://github.com/threshold-network/design-system-docs/blob/main/organisms/modals.md)
+  * [Navigation](https://github.com/threshold-network/design-system-docs/blob/main/organisms/navigation.md)
+  * [Rewards](https://github.com/threshold-network/design-system-docs/blob/main/organisms/rewards.md)
+  * [Staking](https://github.com/threshold-network/design-system-docs/blob/main/organisms/staking.md)
+  * [Table](https://github.com/threshold-network/design-system-docs/blob/main/organisms/table.md)
+  * [TVL](https://github.com/threshold-network/design-system-docs/blob/main/organisms/TVL.md)
+  * [Upgrade](https://github.com/threshold-network/design-system-docs/blob/main/organisms/upgrade.md)
+  * [Wallet](https://github.com/threshold-network/design-system-docs/blob/main/organisms/wallet.md)
+
   
-### 🏙️ Layouts
-  * Page
+### 🏙️ [Layouts](https://github.com/threshold-network/design-system-docs/tree/main/layouts)
+  * [Page](https://github.com/threshold-network/design-system-docs/blob/main/layouts/pages.md)
