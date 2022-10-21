@@ -8,7 +8,7 @@ Refer to the following guides on the various states of wallet interactions.
 
 ### Wallet Overview
 
-![wallet overview](https://user-images.githubusercontent.com/57226633/197245725-3e98ded5-6f2e-4b14-83ce-b815e070d7cc.png)
+![wallet-overview](https://user-images.githubusercontent.com/57226633/197246318-a95314ff-befe-42a5-87c3-a98f908108a1.png)
 
 ## Modal Interactions
 
