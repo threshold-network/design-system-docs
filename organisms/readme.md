@@ -7,13 +7,13 @@
 To learn more about using atomic design systems, refer to this section of Brad Frost's book Atomic Design: https://atomicdesign.bradfrost.com/chapter-2/
 
 ## Table of Contents 
-  * Applications
-  * Coverage Pool
-  * Modals
-  * Navigation
-  * Rewards
-  * Staking
-  * Table
-  * TVL
-  * Upgrade
-  * Wallet
+  * [Applications](https://github.com/threshold-network/design-system-docs/blob/main/organisms/application.md)
+  * [Coverage Pool](https://github.com/threshold-network/design-system-docs/blob/main/organisms/coverage-pool.md)
+  * [Modals](https://github.com/threshold-network/design-system-docs/blob/main/organisms/modals.md)
+  * [Navigation](https://github.com/threshold-network/design-system-docs/blob/main/organisms/navigation.md)
+  * [Rewards](https://github.com/threshold-network/design-system-docs/blob/main/organisms/rewards.md)
+  * [Staking](https://github.com/threshold-network/design-system-docs/blob/main/organisms/staking.md)
+  * [Table](https://github.com/threshold-network/design-system-docs/blob/main/organisms/table.md)
+  * [TVL](https://github.com/threshold-network/design-system-docs/blob/main/organisms/TVL.md)
+  * [Upgrade](https://github.com/threshold-network/design-system-docs/blob/main/organisms/upgrade.md)
+  * [Wallet](https://github.com/threshold-network/design-system-docs/blob/main/organisms/wallet.md)
