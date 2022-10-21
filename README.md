@@ -58,15 +58,15 @@ To be the most effective, a design system should adhere to the following:
 
 ### 🏡 [Molecules](https://github.com/threshold-network/design-system-docs/tree/main/molecules)
   * [Alert](https://github.com/threshold-network/design-system-docs/blob/main/molecules/alerts.md)
-  * Feature Banner
-  * Filter Tab
-  * Form
-  * Plan Select
-  * Toast
-  * Line Inline
-  * Photo Uploader
-  * Statistics
-  * Voting
+  * [Feature Banner](https://github.com/threshold-network/design-system-docs/blob/main/molecules/feature-banner.md)
+  * [Filter Tab](https://github.com/threshold-network/design-system-docs/blob/main/molecules/filter.md)
+  * [Form](https://github.com/threshold-network/design-system-docs/blob/main/molecules/form.md)
+  * [Inline List](https://github.com/threshold-network/design-system-docs/blob/main/molecules/inline-list.md)
+  * [Photo Uploader](https://github.com/threshold-network/design-system-docs/blob/main/molecules/photo-uploader.md)
+  * [Plan](https://github.com/threshold-network/design-system-docs/blob/main/molecules/plan.md)
+  * [Statistics](https://github.com/threshold-network/design-system-docs/blob/main/molecules/statistics.md)
+  * [Toast](https://github.com/threshold-network/design-system-docs/blob/main/molecules/toast.md)
+  * [Voting](https://github.com/threshold-network/design-system-docs/blob/main/molecules/voting.md)
   
 ### 🏢 Organisms
   * Applications
