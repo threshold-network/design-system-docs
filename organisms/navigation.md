@@ -2,6 +2,8 @@
 
 The navigation component allows the user to move through the application's information hierarchy.
 
+*For the Figma library, you can duplicate the Figma file [here](https://www.figma.com/file/zZi2fYDUjWEMPQJWAt8VWv/Threshold-DS?node-id=3436%3A24296).*
+
 ## Guidelines
 
 ### Larger (M-2XL) Breakpoints
@@ -17,6 +19,8 @@ The navigation component allows the user to move through the application's infor
 ### Secondary Navigation
 
 ![secondary](https://user-images.githubusercontent.com/57226633/197243059-a2211886-8490-43cd-8ef5-09bac65938dd.png)
+
+### Examples
 
 ![darkmodeexample](https://user-images.githubusercontent.com/57226633/197243054-4c7c5609-65dc-4908-92d0-bcc3927306da.png)
 
