@@ -2,6 +2,8 @@
 
 The coverage pool feature in the dashboard allows underwriters to deposit tokens into the pool that serves as an insurance backstop for the tBTC protocol in the case of an insurance event. Underwriters earn rewards for their deposit and receive a coverage token to represent their percentage of the pool.
 
+For the Figma library, you can duplicate the Figma file [here](https://www.figma.com/file/zZi2fYDUjWEMPQJWAt8VWv/Threshold-DS?node-id=3436%3A24296).
+
 ## Guidelines
 
 ### Balance Card
