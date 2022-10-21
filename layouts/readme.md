@@ -5,4 +5,4 @@
 Layouts are full page templates for building the interface.
 
 ## Table of Contents
-  * Page
+  * [Page](https://github.com/threshold-network/design-system-docs/blob/main/layouts/pages.md)
