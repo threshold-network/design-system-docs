@@ -2,6 +2,8 @@
 
 This component can be used to show multiple choices and easily compare plans.
 
+*To duplicate the Figma file, go [here.](https://www.figma.com/file/zZi2fYDUjWEMPQJWAt8VWv/Threshold-DS?node-id=834%3A18160)*
+
 ## Rules of Thumb
 
 ### Easily compare several options.
