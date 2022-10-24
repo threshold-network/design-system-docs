@@ -24,7 +24,7 @@ Threshold's design system is an atomic design system. An **atomic design system*
 To be the most effective, a design system should adhere to the following:
 * **Consistent**. The way components are built and managed follows a predictable pattern.
 * **Independent**. The design system is built as a standalone and a single source of truth.
-* **Reusable**. The components are built so they can be reused in many contexts. While it seems like a simple concept, deciding the level of specificity is one of the trickiest things about modular design. The more specific something is, the less reusable it is.
+* **Reusable**. The components are built so they can be reused in many contexts. While it seems like a simple concept, deciding the level of specificity is tricky - the more specific something is, the less reusable it is.
 * **Accessible**. It’s usable by as many people as possible, no matter how they access the web.
 
 ## Table of Contents
