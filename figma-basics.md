@@ -4,6 +4,10 @@
 
 Then this guide is made for **you**. 
 
+You can find it here in the Community section of Figma:
+
+https://www.figma.com/community/file/1199724949260413441
+
 In **1 hour**, get the basics down. I've run this workshop on two folks so far, and I will continue to test it and improve it. I would love your feedback in comments. This file is built on top of the default file that comes with a new Figma account! There are some more advanced tips in the version from Figma, so check that one out too.
 
 Of course, some familiarity with using Illustrator, Canva, Photoshop, or other design software will definitely give you an edge. But, for this workshop, I put it together with a beginner in mind -- and baked in hot tips where I could.
