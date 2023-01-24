@@ -1,6 +1,6 @@
 # New to Figma?
 
-## Not a lot of time to onboard into a brand new tool?
+### Not a lot of time to onboard into a brand new tool?
 
 Then this guide is made for **you**. 
 
