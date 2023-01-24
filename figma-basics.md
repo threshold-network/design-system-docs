@@ -18,4 +18,4 @@ YouTube Playlist from Figma:
 https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4
 
 Documentation:
-https://www.figma.com/best-practices/guides/?fuid=720630368357015586
+https://www.figma.com/best-practices/guides/
