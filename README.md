@@ -2,6 +2,8 @@
 
 # Threshold Network Web3 Design System
 
+**This DS is built with Figma. New to Figma? Check out our guide here: https://github.com/threshold-network/design-system-docs/blob/main/figma-basics.md**
+
 This library is used by our team to build products with a consistent user experience. A design system is a complete set of standards intended to manage design at scale using reusable components and patterns.
 
 When we first were deciding how we wanted to structure a design system, we evaluated several existing options to see what could be used for a web3 product. The web3 space has several components that are unique and important to the UX of the application, e.g. transaction modals and wallet interactions. No design system fully covered these use cases, so we decided to customize our own on top of an open source Chakra library.
